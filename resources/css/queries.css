@@ -1,0 +1,31 @@
+/*Laptops to large screens*/
+@media only screen and (max-width: 1200px) {
+	.hero-text {
+		width: 100%;
+		padding: 0 2%;
+	}
+	.row {
+		padding: 0 2%;
+	}
+}
+
+/*Tablets to laptops*/
+@media only screen and (max-width: 1023px) {
+	section { padding: 6rem 0; }
+	.long-copy {
+		width: 80%;
+		margin-left: 10%; 
+	}
+
+	h2 { font-size: 2rem; }
+}
+
+/*smallphones to tablets*/
+@media only screen and (max-width: 767px) {
+	h2 { font-size: 3rem; }
+}
+
+/*Small Phones*/
+@media only screen and (max-width: 480px) {
+    
+}

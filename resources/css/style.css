@@ -331,7 +331,7 @@ input[type=submit]:active {
     background-color: var(--color-primary-main);
     color: #fff;
     padding: 1rem 2rem;
-    border-radius: 5rem;
+    border-radius: .4rem;
     border-radius: 5rem;
     margin-left: 1rem;
     text-transform: capitalize;

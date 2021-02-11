@@ -428,6 +428,7 @@ input[type=submit]:active {
     padding: 2%;
     margin-top: 1.5rem;
     font-size: 1.5rem;
+     background-color: #f3f2f2;
 }
 
 /*---------------------------------*/

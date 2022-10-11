@@ -29,7 +29,8 @@
   height: 2.5rem;
   Margin-top: 2rem;
 }
-.main-nav { margin-top: 2.5rem; }
+  .main-nav { margin-top: 2.5rem; }
+  input { width: 100% }
 }
 
 @media only screen and (max-width: 480px) {
@@ -40,4 +41,5 @@
    h2 {font-size: 2rem;}
    h3 {font-size: 1.8rem;}
   .fab { margin-bottom: 1.5rem; }
+  .col { width: 100%; 
 }

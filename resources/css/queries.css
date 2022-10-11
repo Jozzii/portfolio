@@ -1,12 +1,12 @@
 @media only screen and (max-width: 480px) {
  
-  .row,
-  .hero-text-box {
+  .row {
    width:100%;
-   overflow: hidden;
+   padding: 3%;
 }
-.row {
-  padding: 3%;
+
+.hero-text-box {
+   background-color: red;
 }
 
 h1 { font-size: 3rem; }

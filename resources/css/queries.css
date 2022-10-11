@@ -1,9 +1,7 @@
 @media only screen and (max-width: 480px) {
    body,
   .row,
-  .hero-text-box {
-   max-width:100%;
-}
+  .hero-text-box { max-width:100%; }
   .hero-text-box,
   .row{ padding: 4%; }
   h1 { font-size: 3rem; }

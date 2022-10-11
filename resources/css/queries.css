@@ -1,8 +1,18 @@
 @media only screen and (max-width: 480px) {
- body,
-  row {
+  
+  body {
+   font-size: 1.6rem;
+   overflow: hidden;
+}
+row,
+  .hero-text-box {
   width:100%;
   padding: 4%;
+}
+
+  h1 {
+   font-size: 3rem;
+   
 }
 
 }

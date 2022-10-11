@@ -1,11 +1,11 @@
 @media only screen and (max-width: 480px) {
   
-  body {
-   font-size: 1.6rem;
+  body,
+  .row {
+   width:100%;
    overflow: hidden;
 }
 .row {
-  width:100%;
   padding: 3%;
 }
 

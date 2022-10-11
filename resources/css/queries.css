@@ -9,7 +9,7 @@
 
 
 @media only screen and (max-width: 1023px) {
-   section {padding: 6rem; }
+   section {padding: 6rem 0; }
    .long-copy,
    .about-text {
     width: 80%;
@@ -18,7 +18,7 @@
 }
 
 @media only screen and (max-width: 767px) {
-   section { padding: 3rem; }
+   section { padding: 3rem 0; }
   body { font-size: 1.6rem; }
    h1 {font-size: 3.4rem;}
    h2 {font-size: 2.5rem;}
@@ -30,4 +30,10 @@
    h1 {font-size: 2.8rem;}
    h2 {font-size: 2rem;}
    h3 {font-size: 1.8rem;}
+  .logo {
+  height: 2.5rem;
+  Margin-top: 2rem; 
+}
+
+.main-nav { margin-top: 2.5rem; }
 }

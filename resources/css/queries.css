@@ -1,14 +1,13 @@
 @media only screen and (max-width: 480px) {
- 
+   body,
   .row,
   .hero-text-box {
-   width:100%;
-   padding: 4%;
+   max-width:100%;
 }
-.hero-text-box { background-color: red; }
-
-h1 { font-size: 2.5rem; }
-h2 { font-size: 1.8rem; }
-.long-copy { font-size: 1.5rem; }
+  .hero-text-box { background-color: red; }
+  .row{ padding: 4%; }
+  h1 { font-size: 2.5rem; }
+  h2 { font-size: 1.8rem; }
+  .long-copy { font-size: 1.5rem; }
 
 }
